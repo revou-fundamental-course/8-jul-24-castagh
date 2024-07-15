@@ -57,12 +57,11 @@ input {
     background: #333;
 }
 
-/* Add this CSS for Hitung BMI button */
 #btn {
-    background: white; /* Set the background color to white */
-    color: black; /* Set the text color to black for better readability */
+    background: white;
+    color: black;
 }
 
 #btn:hover {
-    background: #ccc; /* Change the background color on hover if needed */
+    background: #ccc;
 }
